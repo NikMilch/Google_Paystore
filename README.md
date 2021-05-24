@@ -12,9 +12,8 @@ Analyzing and creating models over Google PlayStore app data have a good potenti
 - KNeighborsRegresor
 
 
-### Packages
-
+### Packages ###
   - Pandas, Numpy, Matplotlib, Seaborn
-  - Preprocessing: StandardScaler, MinMaxScaler
-  - Model selection: train_test_split, GridSearchCV, RandomizedSearchCV
-  - Metrics: mean_squared_error, mean_absolute_error, r2_score 
+  -  Preprocessing: StandardScaler, MinMaxScaler
+  -  Model selection: train_test_split, GridSearchCV, RandomizedSearchCV
+  -  Metrics: mean_squared_error, mean_absolute_error, r2_score 
